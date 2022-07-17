@@ -1,14 +1,8 @@
-# RPN Calculator frontend
+# RPN Calculator web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project is divided into a backend part and a frontend part
+Please read the readme file in the backend project in order to start the server
 
-## To start the app use
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+### Frontend : 
+1. run 'npm install'
+2. run 'npm start' to start the web app
